@@ -1,0 +1,5 @@
+# Resultados gerados pelas execuções do JMeter
+*.jtl
+relatorio/
+jmeter.log
+.DS_Store
